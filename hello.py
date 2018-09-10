@@ -2,8 +2,11 @@
 # -*- coding: utf-8 -*-
 # 
 
+import sys
+import math
 import functools
 
+print(sys.path)
 print('hello, world!')
 
 i = 1
